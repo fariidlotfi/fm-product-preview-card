@@ -1,3 +1,6 @@
+# View Online
+[View Online Demo](https://fariidlotfi.github.io/fm-product-preview-card/)
+
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
